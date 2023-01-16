@@ -40,3 +40,52 @@ a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+#hero {
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+}
+
+#description {
+    margin-left: 6%;
+    padding: 3% 2% 6%;
+    width: 35%;
+    text-align: left;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+#description p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#header-button {
+    padding: 1em 3em;
+    background: #3882F6;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#image {
+    width: 42%;
+    margin: 6% 10.5% 0 0;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+    /* height: 17em; */
+    border: none;
+    border-radius: 2%;
+    margin-left: auto;
+    flex-shrink: 2;
+}

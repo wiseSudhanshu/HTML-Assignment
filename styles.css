@@ -178,3 +178,13 @@ h2 {
     font-weight: bold;
     cursor: pointer;
 }
+
+footer {
+    text-align: center;
+    height: 5em;
+    display: flex;
+    align-items: center;
+    background-color: #1f2937;
+    justify-content: center;
+    color: #fff;
+}

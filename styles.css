@@ -90,3 +90,35 @@ img {
     flex-shrink: 2;
 }
 
+#random {
+    padding-bottom: 4em;
+}
+
+h2 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+}
+
+.container {
+    text-align: center;
+}
+
+.figure {
+    display: inline-block;
+    margin: 0 1em;
+}
+
+.box {
+    height: 8em;
+    width: 8em;
+    border: 2px solid #3882F6;
+    border-radius: 10%;
+}
+
+.container p {
+    display: inline-block;
+    width: 12em;
+    font-size: 11px;
+}
